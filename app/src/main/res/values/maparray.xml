@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="maparray">
+        <item>de_mirage</item>
+        <item>de_cache</item>
+        <item>de_inferno</item>
+        <item>de_nuke</item>
+        <item>de_overpass</item>
+        <item>de_train</item>
+        <item>de_dust2</item>
+        <item>de_cbble</item>
+    </string-array>
+</resources>
